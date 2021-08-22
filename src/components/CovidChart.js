@@ -83,6 +83,13 @@ const CovidChart = () => {
           >
             12M
           </Button>
+          <Button
+            onClick={() => {
+              getData();
+            }}
+          >
+            ALL
+          </Button>
         </ButtonGroup>
         <Line
           data={{
