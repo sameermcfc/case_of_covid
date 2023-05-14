@@ -1,3 +1,5 @@
+*Covid API is deprecated, this application has been altered to show different data
+
 **Covid 19 Sydney vs Melbourne**
 **Purpose:**
 - Visually see the difference in case numbers between NSW and Victoria
